@@ -7,5 +7,5 @@
 #'
 #' @examples hello_world('Harlan')
 hello_world <- function(name) {
-  print(paste('hello, ', name))
+  print(paste('Hello, ', name))
 }
